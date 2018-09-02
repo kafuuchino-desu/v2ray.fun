@@ -1,1 +1,1 @@
-保留一个旧版v2ray.fun
+自己使用的v2ray.fun脚本
